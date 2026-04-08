@@ -1,4 +1,0 @@
-[submodule "rlopezcgc/cgc_rnd"]
-	path = rlopezcgc/cgc_rnd
-	url = git@github.com:rlopezcgc/cgc_rnd.git
-	branch = main
